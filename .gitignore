@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 *.xml
+=======
+tmp/todo.txt
+<<<<<<< HEAD
+*.pdf
+=======
+*.xml
+>>>>>>> d374381e26a76b8c99cd85d247616b0409104c1a
+>>>>>>> 57171d1f03e1b9c8e393faa4d985d32d54ef3ede
